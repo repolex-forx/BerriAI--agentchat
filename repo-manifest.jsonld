@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/BerriAI/agentchat",
+  "@type": "gh:Repository",
+  "gh:name": "agentchat",
+  "gh:owner": "BerriAI",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/BerriAI/agentchat/commit/766bae16afe73e5f5d61dd657af632d39c0e692f",
+      "git:hexsha": "766bae16afe73e5f5d61dd657af632d39c0e692f",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
