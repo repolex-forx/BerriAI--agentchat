@@ -1,0 +1,11 @@
+{
+  "org": "BerriAI",
+  "repo": "agentchat",
+  "versions": [
+    {
+      "commit": "766bae16afe73e5f5d61dd657af632d39c0e692f",
+      "tag": "",
+      "parsed_at": "2026-10-10T07:46:41.226942+00:00"
+    }
+  ]
+}
